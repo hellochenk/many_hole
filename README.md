@@ -8,6 +8,8 @@
 
 [react fiber架构](https://github.com/acdlite/react-fiber-architecture)
 
+[eventLoop](https://segmentfault.com/a/1190000022805523)
+
 
 
 
