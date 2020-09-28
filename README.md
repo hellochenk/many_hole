@@ -10,7 +10,9 @@
 
 [eventLoop](https://segmentfault.com/a/1190000022805523)
 
-
+html布局：
+[In Flow and Out of Flow](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Flow_Layout/%E5%9C%A8Flow%E4%B8%AD%E5%92%8CFlow%E4%B9%8B%E5%A4%96)
+[Block Formatting Context，BFC](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Block_formatting_context)
 
 
 
