@@ -9,5 +9,6 @@
 ### 工具库
 - dsbridge/jsbridge
 - [google blockly](https://developers.google.com/blockly)
+- [pixijs](https://www.pixijs.com/tutorials)
 
 
