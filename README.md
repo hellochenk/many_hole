@@ -15,7 +15,7 @@
 
 - [new操作符究竟在做什么](https://www.zhihu.com/question/36440948/answer/213711157)
 
-- [动态规划](https://leetcode-cn.com/problems/climbing-stairs/comments/1058976)
+- [动态规划](https://programmercarl.com/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.html)
 
 
 
