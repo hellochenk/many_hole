@@ -19,7 +19,7 @@
 
 - [npm 和 yarn不一样吗](https://juejin.cn/post/7060844948316225572)
 
-
+- [Page Lifecycle API](https://developer.chrome.com/blog/page-lifecycle-api/)
 
 
 
