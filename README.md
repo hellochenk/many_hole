@@ -21,5 +21,7 @@
 
 - [Page Lifecycle API](https://developer.chrome.com/blog/page-lifecycle-api/)
 
+- [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback#computationally-expensive-calculations)
+
 
 
