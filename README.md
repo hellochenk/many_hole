@@ -23,5 +23,5 @@
 
 - [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback#computationally-expensive-calculations)
 
-
+- [How do I copy to the clipboard in JavaScript?](https://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript)
 
