@@ -26,3 +26,5 @@
 - [How do I copy to the clipboard in JavaScript?](https://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript)
 
 - [animations api](http://danielcwilson.com/blog/2015/07/animations-intro/)
+
+- [three js manual](https://threejs.org/manual/#zh/primitives)
